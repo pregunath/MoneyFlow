@@ -27,9 +27,7 @@ The database used during the project was initially provided by the class, but is
 - **Enhance the frontend design** to create a more modern and user-friendly interface.
 - **Refactor backend code** for scalability and additional features.
 
-This repo will include:
-- A **video demonstration** of the app in action.
-- **Screenshots** of the app receiving an **Honorable Mention** and me being recognized as one of the best managers in the class.
+This repo will also include a **video demonstration** of the app in action.
   
 ---
 
