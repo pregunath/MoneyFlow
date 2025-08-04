@@ -36,7 +36,6 @@ I will include:
 # Awards:
 
 - This app was recognized as one of the best projects in the class.
-- I was awarded as one of the best managers for my contributions to the project.
 
 # Team Members:
 
