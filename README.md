@@ -22,12 +22,12 @@ The app was built with a focus on **backend functionality**, while future develo
 ---
 
 ## Future Plans and Development
-The database used during the project was initially provided by the class but is no longer available. I plan to:
+The database used during the project was initially provided by the class, but is no longer available. We plan to:
 - **Develop a new custom database** to support the app.
 - **Enhance the frontend design** to create a more modern and user-friendly interface.
 - **Refactor backend code** for scalability and additional features.
 
-I will include:
+This repo will include:
 - A **video demonstration** of the app in action.
 - **Screenshots** of the app receiving an **Honorable Mention** and me being recognized as one of the best managers in the class.
   
