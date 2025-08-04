@@ -33,10 +33,6 @@ This repo will include:
   
 ---
 
-# Awards:
-
-- This app was recognized as one of the best projects in the class.
-
 # Team Members:
 
 - Kemal Yavuz (Backend Developer)
